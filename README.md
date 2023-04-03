@@ -2,7 +2,7 @@
 
 <a href="https://github.com/RWallie"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" height="160" width="auto"/></a>
 
-My name is Ryan Wallace. I am a full stack software engineer with a passion for designing and building scalable applications. My work is primarily in React/Redux/Node applications within the Flux design paradigm. I've worked on some open source products - Recoilize - a chrome developer tool for visualizing and debugging applications that utilize Recoil.js for state management and contributed to Google's Tensorflow.js, implementing pre-processing layers that dynamically adjust width and height of input data via random number generation to augment image training data. Most recently, I was a DSML Engineer for Codesmith where I had the opportunity to mentor junior engineers in software engineering best practices and develop course curriculum.
+My name is Ryan Wallace. I am a full stack software engineer with a passion for designing and building scalable applications. My work is primarily in React/Redux/Node applications. I've worked on some open source products; Recoilize - a chrome developer tool for visualizing and debugging applications that utilize Recoil.js for state management and contributed to Google's Tensorflow.js, implementing pre-processing layers that dynamically adjust width and height of input data via random number generation to augment image training data. Most recently, I was a Software Engineer for Codesmith where I had the opportunity to mentor junior engineers in software engineering best practices and develop course curriculum.
 
 Featured speaker in the Single Sprout Speaker Series - Security (XSS, CSRF, Encryption)
 
