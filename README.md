@@ -4,8 +4,6 @@
 
 My name is Ryan Wallace. I am a full stack software engineer with a passion for designing and building scalable applications. My work is currently in React/Java/Spring Boot applications. I've worked on some open source products; Recoilize - a chrome developer tool for visualizing and debugging applications that utilize Recoil.js for state management and contributed to Google's Tensorflow.js, implementing pre-processing layers that dynamically adjust width and height of input data via random number generation to augment image training data. I'm currently a Software Engineer for Howl - building a scalable social media application for communities. Prior to this, I was a Software Engineer for Codesmith where I had the opportunity to mentor junior engineers in software engineering best practices and develop course curriculum.
 
-Featured speaker in the Single Sprout Speaker Series - Security (XSS, CSRF, Encryption)
-
 ### **Technologies:**
 <code><img height="24" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
 <code><img height="24" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
